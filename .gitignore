@@ -1,0 +1,14 @@
+# Test and measurement scripts are not published
+test.sh
+perf_test.py
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
